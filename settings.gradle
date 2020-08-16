@@ -1,0 +1,3 @@
+rootProject.name='Final Submission Fundamental'
+include ':app'
+include ':githubconsummerapp'

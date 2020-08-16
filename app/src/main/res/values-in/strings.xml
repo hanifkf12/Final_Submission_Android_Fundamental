@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="settings">Pengaturan</string>
+    <string name="search_users">Cari User…</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="repository">Repositori</string>
+    <string name="add_fav">Ditambahkan ke Favorit</string>
+    <string name="remove_fav">Dihapus dari Favorit</string>
+    <string name="no_followers">Tidak Diikuti Siapapun</string>
+    <string name="no_following">Tidak Mengikuti Siapapun</string>
+    <string name="daily_message">Mari Kita Cari User Populer di Github</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="changle_language">Ganti Bahasa</string>
+
+</resources>
